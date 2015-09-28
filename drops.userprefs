@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/turnhuusya.js">
+    <Files>
+      <File FileName="Assets/RainCreator.js" Line="3" Column="1" />
+      <File FileName="Assets/Rain.js" Line="23" Column="63" />
+      <File FileName="Assets/UiController.js" Line="6" Column="24" />
+      <File FileName="Assets/Umbrella.js" Line="11" Column="32" />
+      <File FileName="Assets/kasa.js" Line="13" Column="27" />
+      <File FileName="Assets/flower.js" Line="4" Column="1" />
+      <File FileName="Assets/RetryController.js" Line="8" Column="35" />
+      <File FileName="Assets/Retry.js" Line="15" Column="44" />
+      <File FileName="Assets/open.js" Line="17" Column="50" />
+      <File FileName="Assets/turnhuusya.js" Line="17" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
